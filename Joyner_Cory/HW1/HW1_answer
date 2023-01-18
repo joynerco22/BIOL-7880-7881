@@ -1,0 +1,7 @@
+1. After typing "ls -l" the only thing that popped up was "total 0". 
+
+2. After typing "ls -al" two directories appeared: "." and ".." The first refers to the current working directory and the second refers to the parent directory.
+
+3. After "cd . ", the current working directory is: /mnt/c/Users/coryj/Desktop/Joyner_Cory/HW1
+
+4. After "cd ..", the current working directory is: /mnt/c/Users/coryj/Desktop/Joyner_Cory  
